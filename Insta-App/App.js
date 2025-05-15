@@ -11,9 +11,9 @@ class App extends Component {
       feed: [
         {
           id: '1',
-          nome: 'Ruan Assunção',
-          descricao: 'Mercedez-benz :)',
-          imgperfil: require('./src/Img/fotoFedd.jpg'),
+          nome: 'John Costa',
+          descricao: 'Aprendendo programação!',
+          imgperfil: require('./src/Img/fotoPerfil.jpg'),
           imgPublicacao: 'https://wallpaperaccess.com/full/2516666.jpg',  
           likeada: false,
           likers: 0

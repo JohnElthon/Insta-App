@@ -55,7 +55,7 @@ carregaIcone(likeada){
         <View style={styles.areaFeed}>
         <View style={styles.viewPerfil}>
             <Image style={styles.fotoPerfil}
-            source={require('../Img/fotoFedd.jpg')}></Image>    
+            source={require('../Img/fotoPerfil.jpg')}></Image>    
             <Text style={styles.nomePerfil}>{this.state.feed.nome}</Text>
         </View>
  
